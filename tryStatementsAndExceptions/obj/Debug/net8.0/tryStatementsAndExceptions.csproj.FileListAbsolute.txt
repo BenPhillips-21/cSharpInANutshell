@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/bin/Debug/net8.0/tryStatementsAndExceptions
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/bin/Debug/net8.0/tryStatementsAndExceptions.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/bin/Debug/net8.0/tryStatementsAndExceptions.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/bin/Debug/net8.0/tryStatementsAndExceptions.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/bin/Debug/net8.0/tryStatementsAndExceptions.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/obj/Debug/net8.0/tryStatementsAndExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/obj/Debug/net8.0/tryStatementsAndExceptions.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/obj/Debug/net8.0/tryStatementsAndExceptions.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/obj/Debug/net8.0/tryStatementsAndExceptions.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/obj/Debug/net8.0/tryStatementsAndExceptions.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/obj/Debug/net8.0/refint/tryStatementsAndExceptions.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/obj/Debug/net8.0/tryStatementsAndExceptions.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/obj/Debug/net8.0/tryStatementsAndExceptions.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/tryStatementsAndExceptions/obj/Debug/net8.0/ref/tryStatementsAndExceptions.dll

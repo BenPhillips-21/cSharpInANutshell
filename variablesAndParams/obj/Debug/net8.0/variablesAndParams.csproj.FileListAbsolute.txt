@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/bin/Debug/net8.0/variablesAndParams
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/bin/Debug/net8.0/variablesAndParams.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/bin/Debug/net8.0/variablesAndParams.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/bin/Debug/net8.0/variablesAndParams.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/bin/Debug/net8.0/variablesAndParams.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/obj/Debug/net8.0/variablesAndParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/obj/Debug/net8.0/variablesAndParams.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/obj/Debug/net8.0/variablesAndParams.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/obj/Debug/net8.0/variablesAndParams.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/obj/Debug/net8.0/variablesAndParams.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/obj/Debug/net8.0/refint/variablesAndParams.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/obj/Debug/net8.0/variablesAndParams.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/obj/Debug/net8.0/variablesAndParams.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/variablesAndParams/obj/Debug/net8.0/ref/variablesAndParams.dll

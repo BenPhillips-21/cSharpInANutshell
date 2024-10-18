@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/obj/Debug/net8.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/obj/Debug/net8.0/arrays.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/obj/Debug/net8.0/arrays.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/obj/Debug/net8.0/arrays.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/bin/Debug/net8.0/arrays
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/bin/Debug/net8.0/arrays.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/bin/Debug/net8.0/arrays.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/bin/Debug/net8.0/arrays.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/bin/Debug/net8.0/arrays.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/obj/Debug/net8.0/arrays.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/obj/Debug/net8.0/refint/arrays.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/obj/Debug/net8.0/arrays.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/obj/Debug/net8.0/arrays.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/arrays/obj/Debug/net8.0/ref/arrays.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "eventsTwo/1.0.0": {
+        "runtime": {
+          "eventsTwo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eventsTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/obj/Debug/net8.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/obj/Debug/net8.0/enums.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/obj/Debug/net8.0/enums.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/obj/Debug/net8.0/enums.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/bin/Debug/net8.0/enums
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/bin/Debug/net8.0/enums.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/bin/Debug/net8.0/enums.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/bin/Debug/net8.0/enums.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/bin/Debug/net8.0/enums.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/obj/Debug/net8.0/enums.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/obj/Debug/net8.0/refint/enums.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/obj/Debug/net8.0/enums.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/obj/Debug/net8.0/enums.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/enums/obj/Debug/net8.0/ref/enums.dll

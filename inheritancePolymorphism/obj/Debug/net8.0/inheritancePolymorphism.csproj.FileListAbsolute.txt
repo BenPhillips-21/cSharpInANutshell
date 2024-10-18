@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/bin/Debug/net8.0/inheritancePolymorphism
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/bin/Debug/net8.0/inheritancePolymorphism.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/bin/Debug/net8.0/inheritancePolymorphism.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/bin/Debug/net8.0/inheritancePolymorphism.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/bin/Debug/net8.0/inheritancePolymorphism.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/obj/Debug/net8.0/inheritancePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/obj/Debug/net8.0/inheritancePolymorphism.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/obj/Debug/net8.0/inheritancePolymorphism.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/obj/Debug/net8.0/inheritancePolymorphism.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/obj/Debug/net8.0/inheritancePolymorphism.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/obj/Debug/net8.0/refint/inheritancePolymorphism.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/obj/Debug/net8.0/inheritancePolymorphism.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/obj/Debug/net8.0/inheritancePolymorphism.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritancePolymorphism/obj/Debug/net8.0/ref/inheritancePolymorphism.dll

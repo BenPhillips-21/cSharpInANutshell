@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/bin/Debug/net8.0/fieldsAndProps
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/bin/Debug/net8.0/fieldsAndProps.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/bin/Debug/net8.0/fieldsAndProps.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/bin/Debug/net8.0/fieldsAndProps.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/bin/Debug/net8.0/fieldsAndProps.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/obj/Debug/net8.0/fieldsAndProps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/obj/Debug/net8.0/fieldsAndProps.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/obj/Debug/net8.0/fieldsAndProps.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/obj/Debug/net8.0/fieldsAndProps.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/obj/Debug/net8.0/fieldsAndProps.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/obj/Debug/net8.0/refint/fieldsAndProps.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/obj/Debug/net8.0/fieldsAndProps.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/obj/Debug/net8.0/fieldsAndProps.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/fieldsAndProps/obj/Debug/net8.0/ref/fieldsAndProps.dll

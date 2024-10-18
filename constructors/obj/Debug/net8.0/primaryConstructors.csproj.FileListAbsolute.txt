@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/bin/Debug/net8.0/primaryConstructors
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/bin/Debug/net8.0/primaryConstructors.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/bin/Debug/net8.0/primaryConstructors.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/bin/Debug/net8.0/primaryConstructors.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/bin/Debug/net8.0/primaryConstructors.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/obj/Debug/net8.0/primaryConstructors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/obj/Debug/net8.0/primaryConstructors.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/obj/Debug/net8.0/primaryConstructors.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/obj/Debug/net8.0/primaryConstructors.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/obj/Debug/net8.0/primaryConstructors.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/obj/Debug/net8.0/refint/primaryConstructors.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/obj/Debug/net8.0/primaryConstructors.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/obj/Debug/net8.0/primaryConstructors.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/primaryConstructors/obj/Debug/net8.0/ref/primaryConstructors.dll

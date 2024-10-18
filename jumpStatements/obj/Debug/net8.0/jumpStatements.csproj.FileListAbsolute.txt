@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/bin/Debug/net8.0/jumpStatements
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/bin/Debug/net8.0/jumpStatements.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/bin/Debug/net8.0/jumpStatements.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/bin/Debug/net8.0/jumpStatements.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/bin/Debug/net8.0/jumpStatements.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/obj/Debug/net8.0/jumpStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/obj/Debug/net8.0/jumpStatements.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/obj/Debug/net8.0/jumpStatements.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/obj/Debug/net8.0/jumpStatements.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/obj/Debug/net8.0/jumpStatements.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/obj/Debug/net8.0/refint/jumpStatements.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/obj/Debug/net8.0/jumpStatements.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/obj/Debug/net8.0/jumpStatements.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/jumpStatements/obj/Debug/net8.0/ref/jumpStatements.dll

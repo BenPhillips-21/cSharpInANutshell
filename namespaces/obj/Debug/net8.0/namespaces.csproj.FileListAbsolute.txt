@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/bin/Debug/net8.0/namespaces
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/bin/Debug/net8.0/namespaces.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/bin/Debug/net8.0/namespaces.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/bin/Debug/net8.0/namespaces.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/bin/Debug/net8.0/namespaces.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/obj/Debug/net8.0/namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/obj/Debug/net8.0/namespaces.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/obj/Debug/net8.0/namespaces.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/obj/Debug/net8.0/namespaces.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/obj/Debug/net8.0/namespaces.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/obj/Debug/net8.0/refint/namespaces.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/obj/Debug/net8.0/namespaces.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/obj/Debug/net8.0/namespaces.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/namespaces/obj/Debug/net8.0/ref/namespaces.dll

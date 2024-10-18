@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/bin/Debug/net8.0/enumerationAndIterators
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/bin/Debug/net8.0/enumerationAndIterators.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/bin/Debug/net8.0/enumerationAndIterators.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/bin/Debug/net8.0/enumerationAndIterators.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/bin/Debug/net8.0/enumerationAndIterators.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/obj/Debug/net8.0/enumerationAndIterators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/obj/Debug/net8.0/enumerationAndIterators.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/obj/Debug/net8.0/enumerationAndIterators.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/obj/Debug/net8.0/enumerationAndIterators.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/obj/Debug/net8.0/enumerationAndIterators.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/obj/Debug/net8.0/refint/enumerationAndIterators.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/obj/Debug/net8.0/enumerationAndIterators.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/obj/Debug/net8.0/enumerationAndIterators.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/enumerationAndIterators/obj/Debug/net8.0/ref/enumerationAndIterators.dll

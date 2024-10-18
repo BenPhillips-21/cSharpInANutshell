@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/bin/Debug/net8.0/delegates
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/bin/Debug/net8.0/delegates.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/bin/Debug/net8.0/delegates.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/bin/Debug/net8.0/delegates.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/bin/Debug/net8.0/delegates.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/obj/Debug/net8.0/delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/obj/Debug/net8.0/delegates.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/obj/Debug/net8.0/delegates.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/obj/Debug/net8.0/delegates.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/obj/Debug/net8.0/delegates.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/obj/Debug/net8.0/refint/delegates.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/obj/Debug/net8.0/delegates.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/obj/Debug/net8.0/delegates.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/delegates/obj/Debug/net8.0/ref/delegates.dll

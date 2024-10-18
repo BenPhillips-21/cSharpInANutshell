@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/bin/Debug/net8.0/standardEventPattern
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/bin/Debug/net8.0/standardEventPattern.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/bin/Debug/net8.0/standardEventPattern.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/bin/Debug/net8.0/standardEventPattern.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/bin/Debug/net8.0/standardEventPattern.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/obj/Debug/net8.0/standardEventPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/obj/Debug/net8.0/standardEventPattern.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/obj/Debug/net8.0/standardEventPattern.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/obj/Debug/net8.0/standardEventPattern.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/obj/Debug/net8.0/standardEventPattern.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/obj/Debug/net8.0/refint/standardEventPattern.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/obj/Debug/net8.0/standardEventPattern.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/obj/Debug/net8.0/standardEventPattern.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/standardEventPattern/obj/Debug/net8.0/ref/standardEventPattern.dll

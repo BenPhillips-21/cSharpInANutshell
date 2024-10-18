@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/bin/Debug/net8.0/lambda
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/bin/Debug/net8.0/lambda.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/bin/Debug/net8.0/lambda.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/bin/Debug/net8.0/lambda.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/bin/Debug/net8.0/lambda.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/obj/Debug/net8.0/lambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/obj/Debug/net8.0/lambda.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/obj/Debug/net8.0/lambda.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/obj/Debug/net8.0/lambda.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/obj/Debug/net8.0/lambda.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/obj/Debug/net8.0/refint/lambda.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/obj/Debug/net8.0/lambda.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/obj/Debug/net8.0/lambda.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/lambda/obj/Debug/net8.0/ref/lambda.dll

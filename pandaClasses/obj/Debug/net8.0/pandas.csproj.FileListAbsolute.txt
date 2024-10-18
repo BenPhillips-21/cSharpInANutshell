@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/bin/Debug/net8.0/pandas
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/bin/Debug/net8.0/pandas.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/bin/Debug/net8.0/pandas.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/bin/Debug/net8.0/pandas.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/bin/Debug/net8.0/pandas.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/obj/Debug/net8.0/pandas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/obj/Debug/net8.0/pandas.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/obj/Debug/net8.0/pandas.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/obj/Debug/net8.0/pandas.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/obj/Debug/net8.0/pandas.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/obj/Debug/net8.0/refint/pandas.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/obj/Debug/net8.0/pandas.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/obj/Debug/net8.0/pandas.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/pandas/obj/Debug/net8.0/ref/pandas.dll

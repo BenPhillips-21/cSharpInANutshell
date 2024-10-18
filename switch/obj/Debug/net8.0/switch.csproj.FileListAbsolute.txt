@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/bin/Debug/net8.0/switch
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/bin/Debug/net8.0/switch.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/bin/Debug/net8.0/switch.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/bin/Debug/net8.0/switch.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/bin/Debug/net8.0/switch.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/obj/Debug/net8.0/switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/obj/Debug/net8.0/switch.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/obj/Debug/net8.0/switch.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/obj/Debug/net8.0/switch.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/obj/Debug/net8.0/switch.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/obj/Debug/net8.0/refint/switch.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/obj/Debug/net8.0/switch.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/obj/Debug/net8.0/switch.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/switch/obj/Debug/net8.0/ref/switch.dll

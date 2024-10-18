@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/bin/Debug/net8.0/valVsRefTypes
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/bin/Debug/net8.0/valVsRefTypes.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/bin/Debug/net8.0/valVsRefTypes.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/bin/Debug/net8.0/valVsRefTypes.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/bin/Debug/net8.0/valVsRefTypes.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/obj/Debug/net8.0/valVsRefTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/obj/Debug/net8.0/valVsRefTypes.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/obj/Debug/net8.0/valVsRefTypes.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/obj/Debug/net8.0/valVsRefTypes.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/obj/Debug/net8.0/valVsRefTypes.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/obj/Debug/net8.0/refint/valVsRefTypes.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/obj/Debug/net8.0/valVsRefTypes.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/obj/Debug/net8.0/valVsRefTypes.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/valVsRefTypes/obj/Debug/net8.0/ref/valVsRefTypes.dll

@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/bin/Debug/net8.0/inheritance
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/bin/Debug/net8.0/inheritance.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/bin/Debug/net8.0/inheritance.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/bin/Debug/net8.0/inheritance.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/bin/Debug/net8.0/inheritance.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/obj/Debug/net8.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/obj/Debug/net8.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/obj/Debug/net8.0/inheritance.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/obj/Debug/net8.0/refint/inheritance.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/obj/Debug/net8.0/inheritance.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/obj/Debug/net8.0/inheritance.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/inheritance/obj/Debug/net8.0/ref/inheritance.dll

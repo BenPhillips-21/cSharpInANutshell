@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/bin/Debug/net8.0/eventsTwo
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/bin/Debug/net8.0/eventsTwo.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/bin/Debug/net8.0/eventsTwo.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/bin/Debug/net8.0/eventsTwo.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/bin/Debug/net8.0/eventsTwo.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/obj/Debug/net8.0/eventsTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/obj/Debug/net8.0/eventsTwo.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/obj/Debug/net8.0/eventsTwo.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/obj/Debug/net8.0/eventsTwo.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/obj/Debug/net8.0/eventsTwo.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/obj/Debug/net8.0/refint/eventsTwo.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/obj/Debug/net8.0/eventsTwo.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/obj/Debug/net8.0/eventsTwo.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/eventsTwo/obj/Debug/net8.0/ref/eventsTwo.dll

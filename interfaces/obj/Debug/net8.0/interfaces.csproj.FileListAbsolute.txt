@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/bin/Debug/net8.0/interfaces
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/bin/Debug/net8.0/interfaces.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/bin/Debug/net8.0/interfaces.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/bin/Debug/net8.0/interfaces.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/bin/Debug/net8.0/interfaces.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/obj/Debug/net8.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/obj/Debug/net8.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/obj/Debug/net8.0/interfaces.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/obj/Debug/net8.0/refint/interfaces.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/obj/Debug/net8.0/interfaces.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/obj/Debug/net8.0/interfaces.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/interfaces/obj/Debug/net8.0/ref/interfaces.dll

@@ -1,0 +1,14 @@
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/bin/Debug/net8.0/moreGenerics
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/bin/Debug/net8.0/moreGenerics.deps.json
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/bin/Debug/net8.0/moreGenerics.runtimeconfig.json
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/bin/Debug/net8.0/moreGenerics.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/bin/Debug/net8.0/moreGenerics.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/obj/Debug/net8.0/moreGenerics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/obj/Debug/net8.0/moreGenerics.AssemblyInfoInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/obj/Debug/net8.0/moreGenerics.AssemblyInfo.cs
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/obj/Debug/net8.0/moreGenerics.csproj.CoreCompileInputs.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/obj/Debug/net8.0/moreGenerics.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/obj/Debug/net8.0/refint/moreGenerics.dll
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/obj/Debug/net8.0/moreGenerics.pdb
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/obj/Debug/net8.0/moreGenerics.genruntimeconfig.cache
+/Users/benjamin.phillips/work/cSharp/nutshell/moreGenerics/obj/Debug/net8.0/ref/moreGenerics.dll
